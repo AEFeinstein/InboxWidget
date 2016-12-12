@@ -17,6 +17,6 @@
     android:initialLayout="@layout/inbox_widget"
     android:minHeight="58dp"
     android:minWidth="58dp"
-    android:previewImage="@drawable/widget_icon"
+    android:previewImage="@mipmap/widget"
     android:resizeMode="none"
     android:widgetCategory="home_screen" />
